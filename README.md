@@ -93,7 +93,7 @@ A custom furniture catalog with filtering, an integrated quoting system, and aut
 
 `React` `ASP.NET Core` `Supabase` `Resend`
 
-<a href="https://github.com/ElKruegger/klie-moveis"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-000000?style=for-the-badge&logo=github&logoColor=FF2E2E"/></a>
+<a href="[https://github.com/ElKruegger/klie-moveis](https://kliemoveis.vercel.app/)"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-000000?style=for-the-badge&logo=github&logoColor=FF2E2E"/></a>
 
 </td>
 </tr>
