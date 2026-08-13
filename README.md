@@ -211,6 +211,5 @@ jobs:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0000,100:000000&height=100&section=footer"/>
 
-<sub>built by hand, one line at a time</sub>
 
 </div>
