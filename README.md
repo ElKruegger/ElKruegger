@@ -4,13 +4,12 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Pirata+One&weight=700&size=46&duration=3500&pause=1800&color=FF2E2E&center=true&vCenter=true&width=520&height=75&lines=KRUEGGER" alt="Kruegger"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=15&duration=2200&pause=900&color=D4D4D4&background=00000000&center=true&vCenter=true&width=700&height=100&lines=%3E+INITIALIZING_PROFILE.SYS...;%3E+STACK%3A+.NET+%2F+REACT+%2F+SUPABASE;%3E+LOCATION%3A+RIO_GRANDE_DO_SUL%2C_BR;%3E+STATUS%3A+ONLINE;%3E+ACCESS%3A+GRANTED_" alt="boot sequence"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=15&duration=2200&pause=900&color=D4D4D4&background=00000000&center=true&vCenter=true&width=700&height=100&lines=%3E+INITIALIZING_PROFILE.SYS...;%3E+STACK%3A+.NET+%2F+REACT+%2F+SUPABASE;%3E+STATUS%3A+ONLINE;%3E+ACCESS%3A+GRANTED_" alt="boot sequence"/>
 
 <br/>
 
 ![GitHub followers](https://img.shields.io/github/followers/ElKruegger?style=for-the-badge&color=FF2E2E&labelColor=0D0D0D&logo=github)
 ![Profile Views](https://komarev.com/ghpvc/?username=ElKruegger&style=for-the-badge&color=FF2E2E&labelColor=0D0D0D&label=SCANS)
-![Location](https://img.shields.io/badge/LOCATION-RS%2C_BRASIL-FF2E2E?style=for-the-badge&labelColor=0D0D0D)
 
 </div>
 
@@ -18,24 +17,23 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px" hidden/>
 
-## `//` SOBRE MIM
+## `//` ABOUT
 
 <img align="right" width="260" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" hidden/>
 
 ```yaml
-identidade:
-  nome: Kruegger
-  função: Desenvolvedor Full-Stack (Nível Pleno)
-  base: Pinheirinho do Vale, RS — Brasil
-  origem: formado em São Paulo, 2+ anos de experiência em campo
-  modo_operação: remoto / freelancer
+identity:
+  name: Kruegger
+  role: Full-Stack Developer (Mid-Level)
+  background: Trained in São Paulo, 2+ years of professional experience
+  work_mode: Remote / Freelance
 ```
 
-Comecei em São Paulo, num treinamento intensivo e presencial que me jogou direto na prática — sem atalho. Depois de dois anos construindo experiência real, voltei pra minha cidade no interior do RS e sigo trabalhando remoto, sem abrir mão do padrão que trouxe de lá.
+I began my career in São Paulo, completing a full-time, in-person software development program. After two years of professional experience, I moved back to my hometown and continued working remotely, maintaining the same standards I built there.
 
-Gosto de pensar em sistemas antes de pensar em código: entender o fluxo inteiro antes de escrever a primeira linha. Trabalho pesado com **C# / .NET** no back e **React / TypeScript** no front, sempre com um olho na arquitetura e outro na entrega. Uso IA como parte real do meu fluxo de trabalho — não como muleta, como ferramenta de velocidade.
+I focus on understanding a system's structure before writing code. I work primarily with **C# / .NET** on the backend and **React / TypeScript** on the frontend, with attention to both architecture and delivery. I use AI tools as a regular part of my development process, not as a replacement for understanding the work.
 
-Atualmente construindo o **Contrato.dev**, meu projeto-âncora de portfólio.
+I am currently focused on freelance projects, including **Klie Móveis**, a furniture catalog platform with quoting and filtering functionality.
 
 <br/>
 
@@ -56,7 +54,7 @@ Atualmente construindo o **Contrato.dev**, meu projeto-âncora de portfólio.
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=FF2E2E)
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=FF2E2E)
 
-**Dados & Infra**
+**Data & Infra**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FF2E2E)
 ![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=FF2E2E)
@@ -67,7 +65,7 @@ Atualmente construindo o **Contrato.dev**, meu projeto-âncora de portfólio.
 
 <br/>
 
-## `//` FERRAMENTAS
+## `//` TOOLS
 
 <div align="center">
 
@@ -82,7 +80,7 @@ Atualmente construindo o **Contrato.dev**, meu projeto-âncora de portfólio.
 
 <br/>
 
-## `//` PROJETOS
+## `//` PROJECTS
 
 <div align="center">
 <table width="70%">
@@ -91,37 +89,37 @@ Atualmente construindo o **Contrato.dev**, meu projeto-âncora de portfólio.
 
 ### 🩸 Klie Móveis
 
-Catálogo de móveis sob medida com filtros, sistema de orçamento e notificação por e-mail integrada.
+A custom furniture catalog with filtering, an integrated quoting system, and automated email notifications.
 
 `React` `ASP.NET Core` `Supabase` `Resend`
 
-<a href="https://github.com/ElKruegger/klie-moveis"><img src="https://img.shields.io/badge/VER_REPOSITÓRIO-000000?style=for-the-badge&logo=github&logoColor=FF2E2E"/></a>
+<a href="https://github.com/ElKruegger/klie-moveis"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-000000?style=for-the-badge&logo=github&logoColor=FF2E2E"/></a>
 
 </td>
 </tr>
 </table>
 </div>
 
-> *Ajuste o link acima caso o nome real do repositório seja diferente.*
+> *Update the link above if the actual repository name differs.*
 
 <br/>
 
-## `//` OBJETIVOS_ATUAIS
+## `//` CURRENT_GOALS
 
 ```bash
-kruegger@dev:~$ cat ./objetivos.log
+kruegger@dev:~$ cat ./goals.log
 
-[■■■■■■■□□□] Evoluir e documentar o case Klie Móveis
-[■■■■■□□□□□] Expandir portfólio com novos projetos freelance
-[■■■□□□□□□□] Migrar presença profissional pós-LinkedIn
-[■□□□□□□□□□] Contrato.dev — em pausa, retomada futura
+[■■■■■■■□□□] Building out and documenting the Klie Móveis case study
+[■■■■■□□□□□] Expanding portfolio with new freelance projects
+[■■■□□□□□□□] Migrating professional presence post-LinkedIn
+[■□□□□□□□□□] Contrato.dev — on hold, resuming later
 
 kruegger@dev:~$ _
 ```
 
 <br/>
 
-## `//` MÉTRICAS
+## `//` METRICS
 
 <div align="center">
 
@@ -155,10 +153,10 @@ kruegger@dev:~$ _
 </div>
 
 <details>
-<summary><b>⚙ como ativar a snake animation neste repositório</b></summary>
+<summary><b>⚙ how to enable the snake animation on this repository</b></summary>
 <br/>
 
-1. Crie o arquivo `.github/workflows/snake.yml` no seu repositório de perfil (`ElKruegger/ElKruegger`) com o conteúdo abaixo:
+1. Create `.github/workflows/snake.yml` in your profile repository (`ElKruegger/ElKruegger`) with the following content:
 
 ```yaml
 name: generate snake animation
@@ -189,14 +187,14 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-2. Rode o workflow uma vez manualmente (`workflow_dispatch`) para gerar a branch `output`.
-3. Pronto — o SVG referenciado acima passa a se atualizar sozinho a cada 6h.
+2. Run the workflow once manually (`workflow_dispatch`) to generate the `output` branch.
+3. Done — the SVG referenced above will update automatically every 6 hours.
 
 </details>
 
 <br/>
 
-## `//` REDES
+## `//` CONNECT
 
 <div align="center">
 
@@ -213,6 +211,6 @@ jobs:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0000,100:000000&height=100&section=footer"/>
 
-<sub>feito à mão, linha por linha — sem pressa, sem clichê</sub>
+<sub>built by hand, one line at a time</sub>
 
 </div>
